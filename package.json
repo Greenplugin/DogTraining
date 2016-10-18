@@ -1,0 +1,24 @@
+{
+  "name": "dogtraining",
+  "version": "1.0.0",
+  "description": "dog training app",
+  "main": "/node-app/server.js",
+  "directories": {
+    "test": "tests"
+  },
+  "dependencies": {
+    "bower": "^1.7.9",
+    "gulp": "^3.9.1",
+    "gulp-clean": "^0.3.2",
+    "gulp-less": "^3.1.0",
+    "gulp-uglify": "^2.0.0",
+    "gulp-concat": "^2.6.0",
+    "less": "^2.7.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "dobro",
+  "license": "MIT"
+}
